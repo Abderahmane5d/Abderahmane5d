@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abderahmane5d
 - 👀 I’m interested in Web development and cyber-security
-- 🌱 I’m currently learning Java script
+- 🌱 I’m currently learning reactjs
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
